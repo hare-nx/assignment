@@ -77,6 +77,10 @@ footer{
     margin: 0 auto 5% auto;
   }
   
+  section:last-child{
+    margin: 0 auto;
+  }
+  
   .img{
     padding-top: 55%;
   }
